@@ -1,0 +1,24 @@
+Why Register Protect 2005?
+
+In the demo version of Protect 2005 you can:
+
+*Run Protect 2005 up to 20 times
+*Choose and change your personal password.
+*Use up to half the built in restrictions
+*Make Protect 2005 come up at startup
+
+
+In the Full Version or Protect 2005 you can:
+
+*Run Protect 2005 unlimited times
+*Choose and change your personal password.
+*Use all of the built in restrictions
+*Block or allow access to Protect 2005 itself
+*Set up to six custom files/folder ect. to block
+*Change the custom startup message and Block Message
+*Make Protect 2005 come up at startup
+*Remove the startup message asking you to register (Removes itself on registering)
+
+To get the full version of Protect 2005 you need to register.  Registration costs only £3 or $5
+
+Go to http://www.adranix.co.uk for more infomation.
